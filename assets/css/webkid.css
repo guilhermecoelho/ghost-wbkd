@@ -278,6 +278,14 @@ body * {
   background: #333333;
 }
 
+.social-item.fb {
+  background: #325c99;
+}
+
+.social-item.in {
+  background: #007bb6;
+}
+
 .sidebox.social ul li {
   margin: 0;
   padding: 0;
